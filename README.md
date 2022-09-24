@@ -8,6 +8,7 @@
 <br>
 My AIO-theme might contain some themes you hadn't heard of or bothered to download yet. Since it contains multiple files, and you're free to add your own too, it allows for a faster disabling/enabling if you want to test new themes out and want to be sure nothing is affecting them.
 <br>
+<br>
 <b>What if I want to add my own theme to the AIO file?</b>
 <br>
 You can probably get away with enabling it at the same time. If you want to include it in the AIO file, you can upload it to a code-hosting website like here on GitHub where you can copy the link and paste it in the file. If you do find something you wish was added to the file, you're more than welcome to create an issue where you can tell me about the theme and I'll try to include it.
