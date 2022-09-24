@@ -1,5 +1,5 @@
 # BD-all-in-one-repo
-<h2>A personal and customized collection of themes for BetterDiscord, taken from multiple different developers, each with their respective credits and links to the files I uploaded to this repository.</h2>
+<h2>A personal and customized collection of themes for <a href="https://github.com/BetterDiscord/BetterDiscord">BetterDiscord</a>, taken from multiple different developers, each with their respective credits and links to the files I uploaded to this repository.</h2>
 
 <b>What is this and why did I make it:</b><br>
 This is essentially one theme file that loads multiple other theme files when enabled. If you're worried about it loading something you're not aware of, you can see exactly what it loads. All files were uploaded to this repository for the sake of saving any hassle if the original developers decide to move the file somewhere, which would break the URL reference within my theme file where it loads the actual themes. I made this so I wouldn't have to download and enable multiple diffrent themes when installing BetterDiscord, and this will instead allow me to just download and enable one file that loads everything I want. If you'd like to change anything about what it loads, you're completely free to do so.<br>
