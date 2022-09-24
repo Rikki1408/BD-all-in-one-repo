@@ -3,7 +3,30 @@
  * @author Palle#8668
  * @version 1.0.0
  * @description All-in-one master theme customised and compiled from multiple themes.
- * @invite 
+ * @invite
  * @authorId 300569802680827905
  * @source https://github.com/Rikki1408/bd-absolute-theme-repository
+*/
+
+/** Features */
+@import url('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/Features/EmojiReplace.theme.css');
+
+/** Addons by Gibbu */
+@import url('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/Gibbu/RadialStatus.theme.css');
+@import url('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/Gibbu/windows-titlebar.theme.css');
+
+/** Other addons (UI) */
+@import url('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/UI/SettingsModal.theme.css');
+
+/**
+  * Currently not working:
+@import url ('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/Currently-incompatible/RadialGlow.theme.css')
+@import url ('PLACEHOLDER_TEXT');
+*/
+
+/**
+  * Unused css themes that are not in use, but still recommended as some might like them.
+  * Select, cut and paste the lines from this section to the one just above to include in the code that get loaded by BetterDiscord.
+@import url('https://raw.githubusercontent.com/Rikki1408/bd-absolute-theme-repository/main/Unused-themes/VerticalUserArea.theme.css');
+@import url('PLACEHOLDER_TEXTa');
 */
