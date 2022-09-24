@@ -1,5 +1,5 @@
 # bd-absolute-theme-repository
-<h2>Personal and customized collection of themes for BetterDiscord, taken from multiple different themes, each with their respective credits and links to the original.</h2>
+<h2>A personal and customized collection of themes for BetterDiscord, taken from multiple different themes, each with their respective credits and links to the original.</h2>
 
 <b>To get this working, all you need to do is download the aio-master.theme.css file, which can be done by clicking on it, clicking "Raw" on the right side, just over where the file is displayed and then pressing Ctrl+S to save the file. You can name the file whatever you want when downloading it, but it is very important, however, that you make sure the filename contains "theme.css" at the very end, as it won't be recognised by BetterDiscord otherwise. When downloading, you also want to make sure it's put in the %APPDATA%/BetterDiscord/themes folder so BetterDiscord will include it in the "Themes" section in Discord. I hope you'll appreciate my effort of combining these great themes into one file for easier enabling/disabling.</b>
 
