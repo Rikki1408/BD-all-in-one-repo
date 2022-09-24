@@ -3,7 +3,7 @@
 
 <b>To get this working, all you need to do is download the aio-master.theme.css file, which can be done by clicking on it, clicking "Raw" on the right side, just over where the file is displayed and then pressing Ctrl+S to save the file. You can name the file whatever you want when downloading it, but it is very important, however, that you make sure the filename contains "theme.css" at the very end, as it won't be recognised by BetterDiscord otherwise. When downloading, you also want to make sure it's put in the %APPDATA%/BetterDiscord/themes folder so BetterDiscord will include it in the "Themes" section in Discord. I hope you'll appreciate my effort of combining these great themes into one file for easier enabling/disabling.</b>
 
-<h3>FAQ</h3>
+<h2>FAQ</h2>
 <b>Who would want to use this, when you can just download them separately?</b>
 My AIO-theme might contain some themes you hadn't heard of or bothered to download yet. Since it contains multiple files, and you're free to add your own too, it allows for a faster disabling/enabling if you want to test new themes out and want to be sure nothing is affecting them.
 
